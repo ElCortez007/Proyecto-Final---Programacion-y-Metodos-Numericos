@@ -18,3 +18,6 @@ Proyecto Final de Programacion y Metodos numericos dela UABC
 
 
 *[Practica 6: Metodos de Newthon-Rapshon y de la secante](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%206)
+
+
+*[Practica 10: Derivacion numerica](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%2010)
