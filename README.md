@@ -9,3 +9,6 @@ Proyecto Final de Programacion y Metodos numericos dela UABC
 
 
 *[Practica 3: Estructuras repetitivas](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%203)
+
+
+*[Practica 4: Funciones, arreglos y matrices](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%204)
