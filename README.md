@@ -23,3 +23,4 @@ Proyecto Final de Programacion y Metodos numericos dela UABC
 *[Practica 10: Derivacion numerica](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%2010)
 
 
+*[Practica 11: Metodos de ecuaciones lineales](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%2011)
