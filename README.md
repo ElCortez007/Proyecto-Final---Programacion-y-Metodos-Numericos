@@ -12,3 +12,6 @@ Proyecto Final de Programacion y Metodos numericos dela UABC
 
 
 *[Practica 4: Funciones, arreglos y matrices](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%204)
+
+
+*[Practica 5: Metodos Cerrados de la biseccion y falsa posicion](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%205)
