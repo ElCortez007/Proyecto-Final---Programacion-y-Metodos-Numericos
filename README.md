@@ -1,2 +1,2 @@
 # Proyecto_PyM-Grupo021
-Proyecto Final de Programacion y Metodos numericos 
+Proyecto Final de Programacion y Metodos numericos dela UABC
