@@ -6,3 +6,6 @@ Proyecto Final de Programacion y Metodos numericos dela UABC
 
 
 *[Practica 2: Condicionales simples, anidados y multiples](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%202)
+
+
+*[Practica 3: Estructuras repetitivas](https://github.com/ElCortez007/Proyecto-Final---Programacion-y-Metodos-Numericos/tree/main/Practica%203)
